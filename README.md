@@ -1,16 +1,24 @@
-## Hi there 👋
+## GitHub page of Marco Lardelli, Zurich/Switzerland
 
-<!--
-**MarcoLardelli/marcolardelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blog:
 
-Here are some ideas to get you started:
+- [My blog lardel.li](https://lardel.li/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Social Media:  
+
+- [X (Twitter)](https://twitter.com/marcolardelli)
+- [LinkedIn](https://www.linkedin.com/in/marco-lardelli-20a72b/)
+
+GitHub:  
+
+- [GitHub MarcoLardelli](https://github.com/MarcoLardelli)
+
+Projects:  
+
+- [ki-kit.ch](https://ki-kit.ch) (a free AI course for teenagers and schools. In German)
+- [dissected.it](https://dissected.it) (an experimental website to explore natural language processing AI)
+- [llm-course.kanohi.ch](https://llm-course.kanohi.ch) (free course about how to use "Large Language Models")
+- [mission-paradise.org](https://mission-paradise.org) (an attempt to *save the world*. a bit *outdated* now because the world - so far - refused to be saved. but you will still find some interesting ideas there)
+
+
+
