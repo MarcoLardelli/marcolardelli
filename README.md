@@ -15,6 +15,7 @@ GitHub:
 
 Projects:  
 
+- [know-know.org](https://know-know.org) (an initiative to foster learning awareness)
 - [ki-kit.ch](https://ki-kit.ch) (a free AI course for teenagers and schools. In German)
 - [dissected.it](https://dissected.it) (an experimental website to explore natural language processing AI)
 - [llm-course.kanohi.ch](https://llm-course.kanohi.ch) (free course about how to use "Large Language Models")
