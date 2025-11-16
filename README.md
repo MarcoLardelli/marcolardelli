@@ -19,6 +19,7 @@ Projects:
 - [know-know.org](https://know-know.org) (an initiative to foster learning awareness)
 - [ki-kit.ch](https://ki-kit.ch) (a free AI course for teenagers and schools. In German)
 - [dissected.it](https://dissected.it) (an experimental website to explore natural language processing AI)
+- [kanohi.ch/demo](https://kanohi.ch/demo/) (free serious games for basic data science education)
 - [llm-course.kanohi.ch](https://llm-course.kanohi.ch) (free course about how to use "Large Language Models")
 - [mission-paradise.org](https://mission-paradise.org) (an attempt to *save the world*. a bit *outdated* now because the world - so far - refused to be saved. but you will still find some interesting ideas there)
 
